@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990507859265",
+    "firebase_url": "https://iot-duydat-default-rtdb.firebaseio.com",
+    "project_id": "iot-duydat",
+    "storage_bucket": "iot-duydat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990507859265:android:ee318f3609e6b199abf5c0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990507859265-n6fk92380l3bp6l43r7dplp2osippk3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW4GMslNeY_ronuhmJ5mtrNmVj_AdCGaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990507859265-n6fk92380l3bp6l43r7dplp2osippk3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
